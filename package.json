@@ -1,0 +1,24 @@
+{
+  "private": true,
+  "name": "eslint-config-pml",
+  "version": "1.0.0",
+  "description": "ESLint configuration for PennMutual JavaScript",
+  "main": "index.js",
+  "peerDependencies": {
+    "eslint-config-standard": "^10",
+    "eslint-plugin-standard": "^3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitlab.pennmutual.com:npm-modules/eslint-config-pml.git"
+  },
+  "keywords": [
+    "ESLint",
+    "lint",
+    "JavaScript",
+    "format",
+    "style-guide"
+  ],
+  "author": "Web Interface Team",
+  "license": "ISC"
+}
