@@ -13,6 +13,6 @@ module.exports = {
     "object-curly-spacing": ["error", "never"],
     "quote-props": ["error", "consistent"],
     "space-before-function-paren": ["error", "never"],
-    "vars-on-top": "warn"
+    "vars-on-top": "error"
   }
 }
