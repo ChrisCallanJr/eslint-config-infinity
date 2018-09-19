@@ -3,6 +3,7 @@ module.exports = {
   "rules": {
     "comma-dangle": ["error", "always-multiline"],
     "consistent-this": ["error", "self"],
+    "indent": ["error", 2],
     "linebreak-style": ["error", "unix"],
     "newline-after-var": ["error", "always"],
     "no-else-return": "error",
