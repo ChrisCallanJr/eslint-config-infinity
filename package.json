@@ -1,5 +1,4 @@
 {
-  "private": true,
   "name": "eslint-config-infinity",
   "version": "2.0.0",
   "description": "ESLint configuration for [REDACTED] JavaScript",
