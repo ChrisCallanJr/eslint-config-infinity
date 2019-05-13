@@ -1,8 +1,8 @@
 {
   "private": true,
-  "name": "eslint-config-pml",
+  "name": "eslint-config-infinity",
   "version": "2.0.0",
-  "description": "ESLint configuration for PennMutual JavaScript",
+  "description": "ESLint configuration for [REDACTED] JavaScript",
   "main": "index.js",
   "peerDependencies": {
     "eslint-config-standard": "^10",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@gitlab.pennmutual.com:npm-modules/eslint-config-pml.git"
+    "url": "git@github.com:ChrisCallanJr/eslint-config-infinity.git"
   },
   "keywords": [
     "ESLint",
@@ -19,6 +19,6 @@
     "format",
     "style-guide"
   ],
-  "author": "Web Interface Team",
+  "author": "ChrisCallanJr",
   "license": "ISC"
 }

@@ -1,4 +1,4 @@
-# PennMutual ESLint JavaScript Code Style
+# [REDACTED] ESLint JavaScript Code Style
 
 This is a sharable ESLint configuration. [You can learn more about them here.](https://eslint.org/docs/developer-guide/shareable-configs)
 
@@ -7,7 +7,7 @@ This is a sharable ESLint configuration. [You can learn more about them here.](h
 In your .eslintrc.json file for your project, have the following:
 
     {
-      "extends": "pml"
+      "extends": "infinity"
     }
 
 ## Dependencies
